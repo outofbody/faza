@@ -95,7 +95,7 @@ body.mobile .button_hover{display:none}
 .tl_article_header{word-wrap:break-word}
 .tl_article.tl_article_edit .tl_article_header{text-align:left}
 .tl_article .tl_article_header,.tl_article.tl_article_edit .tl_article_content address,.tl_article.tl_article_edit .tl_article_content h1{display:block}
-.tl_article .tl_article_content address,.tl_article .tl_article_content h1,.tl_article_edit .tl_article_header{display:none}
+.tl_article .tl_article_content address,.tl_article .tl_article_content h1,.tl_article_edit .tl_article_header{display:block;}
 .tl_article ::selection{background:#dbdbdb}
 .tl_article ::-moz-selection{background:#dbdbdb}
 .tl_article .cursor_wrapper{display:none;position:absolute;font-size:1px;left:50%;z-index:-1}
